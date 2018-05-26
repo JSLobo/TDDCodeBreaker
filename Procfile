@@ -1,1 +1,1 @@
-web: java -cp target/classes:target/dependency/* co.edu.udea.codeBreaker
+web: java -cp target/classes:target/dependency/* co.edu.udea.codeBreaker.App
